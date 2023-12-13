@@ -1,18 +1,22 @@
-# Proposals for MPLX Grants from the Metaplex DAO
+# Proposals for $MPLX Grants from the Metaplex DAO
 
-The Metaplex DAO treasury includes $MPLX that may be used to help sponsor and facilitate the continual growth of the Metaplex ecosystem. One way the DAO can help accomplish this goal is to grant $MPLX (or other assets available in its treasury, as the case may be) to ecosystem contributors that promote the adoption of the Metaplex Protocol and further integration of $MPLX functionality within the Protocol.
+The Metaplex DAO treasury includes $MPLX that may be used to help facilitate the continual growth of the Metaplex ecosystem. One way the DAO can help accomplish this goal is to grant $MPLX (or other assets available in its treasury, as the case may be) to ecosystem contributors that promote the adoption of the Metaplex Protocol and further integration of $MPLX functionality within the Protocol. 
+
+If you have any questions about grant proposals or the submission process, please contact grants@metaplex.foundation.
 
 ## TLDR: The Metaplex Foundation will implement the following procedure for Metaplex DAO grant proposals:
 
-1. Proposals. Any eligible $MPLX holder may submit a grant proposal for $MPLX (“Grant Proposal”). Grant Proposals should specify how the grant will help advance the Metaplex ecosystem by, for example, helping to address specific needs voiced by the community of app developers, creators and collectors that rely on the Metaplex Protocol or by furthering the principles of permission-lessness, censorship resistance, or decentralization. All proposals must abide by applicable laws or regulations.
-2. Community Feedback & Initial Review. The community will be able to provide feedback on proposed grants on the Metaplex Foundation Github Repo. During this period, the Metaplex Foundation will review screen out submissions that are spam, made in bad faith, fail to include necessary information, or would violate any applicable laws or regulations.
-3. Voting Period. Following the community feedback period, the Metaplex Foundation will open the voting period. Voting will be based on MPLX ownership, meaning that one MPLX equals one vote. The Metaplex Foundation will specify the minimum number of total votes that must be submitted for the vote to count. Approval requires (a) >66% of votes are “Yes” votes, and (b) total votes cast exceeds the specified minimum number of votes.
-If approved by the community via a DAO vote, then the DAO Council will execute the transfer of $MPLX to the grant beneficiary by means of a one-time transfer, or a vesting contract.
-Note: The Metaplex Foundation may change the procedure for submitting and reviewing grant proposals over time as we learn from experience and community feedback.
+1. Proposals. Any eligible $MPLX owner may submit a grant proposal for $MPLX (“Grant Proposal”). Grant Proposals should specify how the grant will help advance the Metaplex ecosystem by, for example, helping to address specific needs voiced by the community of NFT creators, collectors, and app developers that rely on the Metaplex Protocol or by furthering the principles of permission-lessness, censorship resistance, or decentralization. All proposals must abide by applicable laws and regulations. Those who submit proposals will be required to properly identify themselves using Know Your Customer (KYC) verification. 
+2. Initial Review. The Metaplex Foundation will review all proposals on a rolling basis, determine if more information is required, and then send follow-up requests, questions, or ideas to the submitting team if necessary. The Metaplex Foundation will screen out submissions that are spam, made in bad faith, fail to include necessary information, or would violate any applicable laws or regulations.
+3. Community Feedback & Voting Period. Grant Proposals that proceed past the initial review will be posted on the Metaplex Foundation Github Repo (“Repo”) where the community can provide feedback or ask questions about the proposed grant. At the same time, the voting period for the Grant Proposal will begin in the DAO. Voting will be based on $MPLX ownership, meaning that one $MPLX equals one vote. The Metaplex Foundation will specify the minimum number of total votes that must be submitted for the vote to count. Approval requires (a) >66% of votes are “Yes” votes (the “Approval Threshold”), and (b) total votes cast exceeds the specified minimum number of votes (the “Quorum”).
 
-## MPLX Grant Proposals
+If approved by the community via a DAO vote, then the DAO Council will execute the transfer of $MPLX to the grant beneficiary by means of a direct transfer, or a vesting smart contract, subject to certain lockup provisions. Prior to claiming any such transfer, the grant beneficiary must agree to customary contract terms. 
 
-Any eligible $MPLX holder may submit a Grant Proposal by: 1) completing a proposal form; and 2) proving ownership of 1000 $MPLX (subject to revision by the Metaplex Foundation and the DAO) on the Metaplex governance website, located here: (https://mip.metaplex.com).
+Note: The Metaplex Foundation may change the procedure for submitting and reviewing grant proposals over time based on experience and community feedback. 
+
+## $MPLX Grant Proposals
+
+Any eligible $MPLX owner may submit a Grant Proposal by: 1) completing a proposal form; and 2) proving ownership of 200 $MPLX (subject to revision by the Metaplex Foundation and the DAO) on the Metaplex governance website (located here: https://mip.metaplex.com). By submitting a proposal form, you consent to the information you include being shared for purposes of considering the grant proposal. You further acknowledge agreement to our privacy policy (https://dao.metaplex.com/privacy). 
 The proposal form will require the following information to be completed fully and accurately:
 
 ### Title
@@ -27,13 +31,13 @@ Please explain the key components of the intended purpose for the grant. This sh
 
 Elaborate on why your proposal should be approved, the problems that the $MPLX grant will help solve, or the benefits it will bring to the Metaplex ecosystem. (3000 characters)
 
-### MPLX Requested
+### $MPLX Requested
 
-Enter the exact amount of $MPLX you are requesting. If applicable, include the number of months your project will take to be developed. This will define the number of months of your vesting contract.
+Enter the exact amount of $MPLX you are requesting. If applicable, include the number of months your project will take to be developed. This will define the duration of your vesting contract.
 
 ### Team
 
-Please list who will be working to execute on the proposal if granted and include an explicit overview of their relevant skillset and experience. You may provide links to portfolios or profiles to help the Metaplex community get to know who the DAO will be funding and how their backgrounds will contribute to the project’s success. Provide from each team member: name/Identity; Role/Position; About them; and a Relevant Link (optional).
+Please list who will be working to execute on the proposal if granted and include an explicit overview of their relevant skillset and experience. You may provide links to portfolios or profiles to help the Metaplex community get to know who the DAO will be funding and how their backgrounds will contribute to the project’s success. Provide from each team member: name/Identity; role/position; about them; and a relevant link (optional). 
 
 ### Beneficiary Address
 
@@ -41,32 +45,34 @@ The address that will receive the $MPLX tokens. This must be a Solana SPL addres
 
 ### Contact Email Address
 
-This email address will be used by the Metaplex Foundation to contact you to check the progress of the grant, set up meetings and maintain an open communication channel. Note that the address will be published in the proposal and publicly visible. If you want to keep your anonymity, consider using an email address without personal identifiable information.
+This email address will be used by the Metaplex Foundation to contact you following the submission of your grant proposal and to check the progress of the project, set up meetings and maintain an open communication channel. Note that the address will be published in the proposal and publicly visible. 
 
 ### Roadmap and milestones (if applicable)
 
-Describe the roadmap for executing on the project, making sure to include any relevant milestones that the community should be aware of and how you will share progress you have made. Clearly communicating progress for long-term projects funded by vesting contracts will help prevent the removal of your funding. (1500 characters)
+Describe the roadmap for executing on the project, making sure to include any relevant milestones that the community should be aware of and how you will share progress you have made. Clearly communicating progress for long-term projects with milestones will help ensure timely  token deliveries for the respective milestones. (1500 characters)
 
-## Submitting a Proposal
+## Submitting a Proposal 
 
-After filling out every field in the proposal form to the best of your abilities and connecting your wallet to demonstrate ownership of 1,000 $MPLX, click Submit proposal.
+After filling out every field in the proposal form to the best of your abilities and connecting your wallet to demonstrate ownership of 200 $MPLX, click Submit proposal. 
 
-After submitting your proposal, a discussion thread will be generated automatically in the Metaplex Foundation Github Repo (“Repo”) where the community can provide feedback or ask questions about your project.
+After submitting your proposal, you will be prompted to complete a KYC check. Successful completion of the KYC is a requirement for any grant proposal to proceed. It is recommended that you complete the identification process within 3 days of submitting your proposal to avoid delays. 
 
-## Community Feedback & Initial Review
+## Initial Review 
 
-Each MPLX Grant Proposal submission will trigger a 14-day community review period, during which anyone may comment on the proposal in the discussion forum in the Repo (“Community Feedback Period”). This will provide the community time to voice its opinion on each proposal before a DAO vote is held.
+Each $MPLX Grant Proposal submission will be reviewed by the Metaplex Foundation on a rolling basis. The Metaplex Foundation will determine if more information is required, and then send follow-up requests, questions, or ideas to the submitting team as necessary, and will aim to respond to all submissions within 2 weeks. 
 
-During the Community Feedback Period, the Metaplex Foundation will review the Grant Proposal to screen out submissions that are spam, made in bad faith, fail to include necessary information, or would violate any applicable laws or regulations.
+The Metaplex Foundation will screen out submissions that are spam, made in bad faith, fail to include necessary information, or would violate any applicable laws or regulations. If the Metaplex Foundation screens out a Grant Proposal it will communicate the rationale for doing so. Grant Proposals that are screened out will be removed from consideration. 
 
-If the Metaplex Foundation screens out a Grant proposal it will post the rationale for doing so on the Repo. Grant Proposals that are screened out will be removed from consideration.
+## Community Feedback & Voting Period
 
-## Voting Period
+After the initial review, assuming all requirements are met, the Grant Proposal will be published for voting in the DAO and for discussion in the Metaplex Foundation Github Repo (“Repo”). This will trigger a 14-day voting period. 
 
-After the community feedback period, assuming all requirements are met, the Metaplex Foundation will publish the Grant Proposal for voting in the DAO.
+When the Metaplex Foundation opens the voting period, it will specify the minimum number of total votes that must be submitted for the vote to count (the “Quorum”). Voting will be based on $MPLX ownership, meaning that one $MPLX equals one vote. The Metaplex Foundation will announce via Twitter (@MetaplexFndn) and on the Metaplex Discord channel when a $MPLX token Grant Proposal voting period is beginning and direct the community to where it can cast votes on the Metaplex DAO. The voting mechanics may change in the future based on feedback and experience.
 
-When the Metaplex Foundation opens the voting period, it will specify the minimum number of total votes that must be submitted for the vote to count (the “Voting Threshold”). Voting will be based on $MPLX ownership, meaning that one $MPLX equals one vote. The Metaplex Foundation will announce via Twitter (@MetaplexFndn) and on the Metaplex Discord channel when a $MPLX token grant proposal voting period is beginning and direct the community to where it can cast votes on the Metaplex DAO. The voting mechanics may change in the future as we learn from experience.
+The Grant Proposal will pass if (a) >66% of votes are “Yes” votes, and (b) total votes cast exceed the Quorum. If either condition is not met, the proposal will fail. 
 
-The Grant Proposal will pass if (a) >66% of votes are “Yes” votes, and (b) total votes cast exceed the Voting Threshold. If either condition is not met, the proposal will fail.
+After the grant has been approved by the community, the grant beneficiary will need to agree to customary contract terms before receiving the grant. This will enable the DAO Council to execute the transfer of $MPLX to the grant beneficiary by means of a direct transfer, or a vesting contract, subject to certain lockup provisions.
 
-If approved by the community, then the DAO Council will execute the transfer of $MPLX to the grant beneficiary by means of a one-time transfer, or a vesting contract.
+
+
+
