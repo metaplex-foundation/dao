@@ -1,6 +1,6 @@
 # Proposals for $MPLX Grants from the Metaplex DAO
 
-The Metaplex DAO treasury includes $MPLX that may be used to help facilitate the continual growth of the Metaplex ecosystem. One way the DAO can help accomplish this goal is to grant $MPLX (or other assets available in its treasury, as the case may be) to ecosystem contributors that promote the adoption of the Metaplex Protocol and further integration of $MPLX functionality within the Protocol. 
+The Metaplex DAO treasury includes $MPLX that may be used to help facilitate the continual growth of the Metaplex ecosystem. One way the DAO can help accomplish this goal is to grant $MPLX (or other assets available in its treasury, as the case may be) to ecosystem contributors that promote the adoption of the Metaplex Protocol and further integration of $MPLX functionality within the Protocol. All $MPLX tokens delivered via DAO grants will be locked for 1 year.
 
 If you have any questions about grant proposals or the submission process, please contact grants@metaplex.foundation.
 
@@ -9,8 +9,7 @@ If you have any questions about grant proposals or the submission process, pleas
 1. Proposals. Any eligible $MPLX owner may submit a grant proposal for $MPLX (“Grant Proposal”). Grant Proposals should specify how the grant will help advance the Metaplex ecosystem by, for example, helping to address specific needs voiced by the community of NFT creators, collectors, and app developers that rely on the Metaplex Protocol or by furthering the principles of permission-lessness, censorship resistance, or decentralization. All proposals must abide by applicable laws and regulations. Those who submit proposals will be required to properly identify themselves using Know Your Customer (KYC) verification. 
 2. Initial Review. The Metaplex Foundation will review all proposals on a rolling basis, determine if more information is required, and then send follow-up requests, questions, or ideas to the submitting team if necessary. The Metaplex Foundation will screen out submissions that are spam, made in bad faith, fail to include necessary information, or would violate any applicable laws or regulations.
 3. Community Feedback & Voting Period. Grant Proposals that proceed past the initial review will be posted on the Metaplex Foundation Github Repo (“Repo”) where the community can provide feedback or ask questions about the proposed grant. At the same time, the voting period for the Grant Proposal will begin in the DAO. Voting will be based on $MPLX ownership, meaning that one $MPLX equals one vote. The Metaplex Foundation will specify the minimum number of total votes that must be submitted for the vote to count. Approval requires (a) >66% of votes are “Yes” votes (the “Approval Threshold”), and (b) total votes cast exceeds the specified minimum number of votes (the “Quorum”).
-
-If approved by the community via a DAO vote, then the DAO Council will execute the transfer of $MPLX to the grant beneficiary by means of a direct transfer, or a vesting smart contract, subject to certain lockup provisions. Prior to claiming any such transfer, the grant beneficiary must agree to customary contract terms. 
+4. If approved by the community via a DAO vote, then the DAO Council will execute the transfer of $MPLX to the grant beneficiary by means of a direct transfer, or a vesting smart contract, subject to certain lockup provisions. Prior to claiming any such transfer, the grant beneficiary must agree to customary contract terms. 
 
 Note: The Metaplex Foundation may change the procedure for submitting and reviewing grant proposals over time based on experience and community feedback. 
 
@@ -71,7 +70,7 @@ When the Metaplex Foundation opens the voting period, it will specify the minimu
 
 The Grant Proposal will pass if (a) >66% of votes are “Yes” votes, and (b) total votes cast exceed the Quorum. If either condition is not met, the proposal will fail. 
 
-After the grant has been approved by the community, the grant beneficiary will need to agree to customary contract terms before receiving the grant. This will enable the DAO Council to execute the transfer of $MPLX to the grant beneficiary by means of a direct transfer, or a vesting contract, subject to certain lockup provisions.
+After the grant has been approved by the community, the grant beneficiary will need to agree to customary contract terms before receiving the grant. This will enable the DAO Council to execute the transfer of $MPLX to the grant beneficiary by means of a direct transfer, or a vesting contract, subject to certain lockup provisions. All $MPLX tokens delivered via DAO grants will be locked for 1 year. 
 
 
 
