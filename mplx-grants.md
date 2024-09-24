@@ -2,7 +2,7 @@
 
 The Metaplex DAO treasury includes $MPLX that may be used to help facilitate the continual growth of the Metaplex ecosystem. One way the DAO can help accomplish this goal is to grant $MPLX (or other assets available in its treasury, as the case may be) to ecosystem contributors that promote the adoption of the Metaplex Protocol and further integration of $MPLX functionality within the Protocol. 
 
-All $MPLX tokens delivered via DAO grants will be locked for 1 year.
+**All $MPLX tokens delivered via DAO grants will be locked for 1 year.**
 
 If you have any questions about grant proposals or the submission process, please contact grants@metaplex.foundation.
 
