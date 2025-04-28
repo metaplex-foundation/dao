@@ -113,7 +113,9 @@ At the end of the 14-day Community Feedback Period, the Metaplex Foundation will
 Voting on materially similar proposals will be sequenced so that only one proposal is voted on by the DAO at a time. The Metaplex Foundation will use its discretion to sequence votes to avoid confusion and potentially conflicting results. Proposals submitted first will be voted on first. 
 
 
-The “Voting Period” for a proposal will be open for 14 days. When the Metaplex Foundation opens the Voting Period, it will specify the minimum number of total votes that must be submitted for the vote to count (the “Voting Threshold”). Voting will be based on MPLX ownership, meaning that one MPLX equals one vote. The Metaplex Foundation will announce via Twitter (@MetaplexFndn) and on the Metaplex Discord channel when a Voting Period is beginning and direct the community to where it can cast votes on the Metaplex DAO. The voting mechanics may change in the future as we learn from experience.
+The “Voting Period” for a proposal will be open for 14 days,unless the proposal is subject to sequencing, in which case it will be open 7 days for later submitted proposals. 
+
+When the Metaplex Foundation opens the Voting Period, it will specify the minimum number of total votes that must be submitted for the vote to count (the “Voting Threshold”). Voting will be based on MPLX ownership, meaning that one MPLX equals one vote. The Metaplex Foundation will announce via Twitter (@MetaplexFndn) and on the Metaplex Discord channel when a Voting Period is beginning and direct the community to where it can cast votes on the Metaplex DAO. The voting mechanics may change in the future as we learn from experience.
 
 
 The proposed DAO Treasury Initiative will pass if (a) >66% of votes are “Yes” votes, and (b) total votes cast exceed the Voting Threshold. If either condition is not met, the proposal will fail.
