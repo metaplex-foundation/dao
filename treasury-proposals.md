@@ -28,6 +28,7 @@ As seen from other web3 ecosystems, examples of DAO Treasury Initiatives might i
 - support for governance infrastructure and administration
 - campaigns for community education and engagement
 
+In the event that a proposal is in direct opposition to an already approved proposal or identical to a previously unsuccessful proposal, it is not permitted to proceed to voting until at least six months past the implementation of the original proposal. This measure is in place to preserve Metaplex community resources. The Metaplex Foundation may submit proposals for consideration by the DAO that are not bound by this limitation in the event of an emergency, as determined in good faith by the Metaplex Foundation.
 
 ## Proposals
 
