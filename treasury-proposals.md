@@ -6,7 +6,7 @@ TLDR: The Metaplex Foundation will implement the following procedure for communi
 
 2. _Community Feedback & Initial Review._ The community will be able to provide feedback on proposed DAO Treasury Initiatives on the Metaplex Foundation Github Repo. The Metaplex Foundation will screen out proposals that are spam, made in bad faith, designed to intentionally harm the DAO, or would violate any applicable laws or regulations.
 
-3. _Voting Period._ Following the community feedback period, the Metaplex Foundation will open the voting period. Voting will be based on $MPLX ownership, meaning that one $MPLX equals one vote. The Metaplex Foundation will specify the minimum number of total votes that must be submitted for the vote to count. Approval requires (a) >66% of votes are “Yes” votes, and (b) total votes cast exceeds the specified minimum number of votes.
+3. _Voting Period._ Following the community feedback period, the Metaplex Foundation will open the voting period. Voting will be based on $MPLX ownership, meaning that one $MPLX equals one vote. The Metaplex Foundation will specify the minimum number of total votes that must be submitted for the vote to count. Approval requires (a) >50% of votes are “Yes” votes, and (b) total "Yes" votes cast exceeds the specified minimum number of votes.
 
 4. _Implementation._ If approved by the community via a DAO vote, then the DAO Council will execute the DAO treasury transactions according to the approved DAO Treasury Initiative’s specifications. If applicable, the individual or team responsible for managing the approved DAO Treasury Initiative must agree to customary contract terms. 
 
@@ -119,7 +119,7 @@ The “Voting Period” for a proposal will be open for 14 days, unless the prop
 When the Metaplex Foundation opens the Voting Period, it will specify the minimum number of total votes that must be submitted for the vote to count (the “Voting Threshold”). Voting will be based on MPLX ownership, meaning that one MPLX equals one vote. The Metaplex Foundation will announce via Twitter (@MetaplexFndn) and on the Metaplex Discord channel when a Voting Period is beginning and direct the community to where it can cast votes on the Metaplex DAO. The voting mechanics may change in the future as we learn from experience.
 
 
-The proposed DAO Treasury Initiative will pass if (a) >66% of votes are “Yes” votes, and (b) total votes cast exceed the Voting Threshold. If either condition is not met, the proposal will fail.
+The proposed DAO Treasury Initiative will pass if (a) >50% of votes are “Yes” votes, and (b) total "Yes" votes cast exceed the Voting Threshold. If either condition is not met, the proposal will fail.
 
 
 ## Implementation
