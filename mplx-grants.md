@@ -48,7 +48,7 @@ The address that will receive the grant. This must be a Solana SPL address to wh
 
 This email address will be used by the Metaplex Foundation to contact you following the submission of your grant proposal and to check the progress of the project, set up meetings and maintain an open communication channel. Note that the address will be published in the proposal and publicly visible. 
 
-### Roadmap and milestones (if applicable)
+### Roadmap and milestones 
 
 Describe the roadmap for executing on the project, making sure to include any relevant milestones tied to vesting amounts that the community should be aware of and how you will share progress you have made. Clearly communicating progress for long-term projects with milestones will help ensure timely token deliveries for the respective milestones. (1500 characters)
 
