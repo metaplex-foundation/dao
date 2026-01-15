@@ -95,7 +95,7 @@ After filling out every field in the proposal form to the best of your abilities
 
 ## Community Feedback & Initial Review
 
-Each DAO Treasury Initiative proposal will trigger a 14 day “Community Feedback Period”, during which anyone may comment on the proposal in the Repo. This will provide time for the community to voice its opinion on each proposal before a DAO vote is held. 
+Each DAO Treasury Initiative proposal will trigger a 7 day “Community Feedback Period”, during which anyone may comment on the proposal in the Repo. This will provide time for the community to voice its opinion on each proposal before a DAO vote is held. 
 
 
 During the Community Feedback Period, the Metaplex Foundation will review the proposals to screen out ones that are spam, made in bad faith, intentionally damaging to the DAO, or would violate any applicable laws or regulations.
@@ -108,7 +108,7 @@ The Original Proposer may propose changes to the proposal or withdraw the propos
 
 ## Voting Period
 
-At the end of the 14-day Community Feedback Period, the Metaplex Foundation will finalize language for the proposed DAO Treasury Initiative based on the community feedback. 
+At the end of the 7-day Community Feedback Period, the Metaplex Foundation will finalize language for the proposed DAO Treasury Initiative based on the community feedback. 
 
 
 Voting on materially similar proposals will be sequenced so that only one proposal is voted on by the DAO at a time. The Metaplex Foundation will use its discretion to sequence votes to avoid confusion and potentially conflicting results. Proposals submitted first will be voted on first. 
