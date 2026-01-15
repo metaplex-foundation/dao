@@ -101,7 +101,7 @@ Each DAO Treasury Initiative proposal will trigger a 7 day “Community Feedback
 During the Community Feedback Period, the Metaplex Foundation will review the proposals to screen out ones that are spam, made in bad faith, intentionally damaging to the DAO, or would violate any applicable laws or regulations.
 
 
-The Metaplex Foundation’s goal is to complete an initial screening decision for each proposal within 7 days of publication on the Repo. If we are unable to meet that goal for any particular proposal, we will publish an update on the Repo with a new target date for our decision. If the Metaplex Foundation screens out a proposal it will post the rationale for doing so on the Repo. Proposals that are screened out will be removed from consideration.
+The Metaplex Foundation’s goal is to complete an initial screening decision for each proposal within 3 days of publication on the Repo. If we are unable to meet that goal for any particular proposal, we will publish an update on the Repo with a new target date for our decision. If the Metaplex Foundation screens out a proposal it will post the rationale for doing so on the Repo. Proposals that are screened out will be removed from consideration.
 
 
 The Original Proposer may propose changes to the proposal or withdraw the proposal at any time prior to the end of the Community Feedback Period.
