@@ -17,7 +17,7 @@ Note: The Metaplex Foundation may change the procedure for submitting and review
 
 ## Grant Proposals
 
-Any eligible $MPLX owner may submit a Grant Proposal by: 1) completing a proposal form; and 2) proving ownership of 200 $MPLX (subject to revision by the Metaplex Foundation and the DAO) on the Metaplex governance website (located here: https://mip.metaplex.com). By submitting a proposal form, you consent to the information you include being shared for purposes of considering the grant proposal. You further acknowledge agreement to our privacy policy (https://dao.metaplex.com/privacy). 
+Any eligible $MPLX owner may submit a Grant Proposal by: 1) completing a proposal form; and 2) proving ownership of 200 $MPLX (subject to revision by the Metaplex Foundation and the DAO) on the Metaplex governance website (located here: https://mip.metaplex.foundation). By submitting a proposal form, you consent to the information you include being shared for purposes of considering the grant proposal. You further acknowledge agreement to our privacy policy (https://dao.metaplex.foundation/privacy). 
 The proposal form will require the following information to be completed fully and accurately:
 
 ### Title
@@ -72,7 +72,7 @@ When the Metaplex Foundation opens the voting period, it will specify the minimu
 
 The Grant Proposal will pass if (a) >50% of votes are “Yes” votes, and (b) total "Yes" votes cast exceed the Quorum. If either condition is not met, the proposal will fail. 
 
-After the grant has been approved by the community, the grant beneficiary will need to agree to customary contract terms before receiving the grant. This will enable the DAO Council to execute the transfer of $MPLX to the grant beneficiary by means of a direct transfer, or a vesting contract, subject to certain lockup provisions. All $MPLX tokens delivered via DAO grants will be locked for 1 year. 
+After the grant has been approved by the community, the grant beneficiary will need to agree to customary contract terms before receiving the grant. This will enable the DAO Council to execute the transfer to the grant beneficiary by means of a direct transfer, or a vesting contract, subject to certain lockup provisions. All $MPLX tokens delivered via DAO grants will be locked for 1 year. 
 
 
 
