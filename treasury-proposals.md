@@ -1,6 +1,6 @@
 # Procedure for Metaplex DAO Treasury Initiative Proposals
 
-TLDR: The Metaplex Foundation will implement the following procedure for community proposals for Metaplex DAO treasury initiatives in support of the Metaplex ecosystem (“DAO Treasury Initiatives”):
+TLDR: The following procedure is the procedure for community proposals for Metaplex DAO treasury initiatives in support of the Metaplex ecosystem (“DAO Treasury Initiatives”):
 
 1. _Proposals._ Anyone may propose a DAO Treasury Initiative by: (1) completing a DAO Treasury Initiative proposal form; and (2) proving ownership of 5,000 $MPLX (subject to revision by Metaplex Foundation based on the market price of $MPLX). Proposals should provide sufficient details for the community to consider, including a well thought out explanation, budget, timeline and success metrics. 
 
@@ -18,7 +18,7 @@ Note: DAO Treasury Initiatives do not include community grants. If you are inter
 
 This procedure applies to community proposals for Metaplex DAO treasury initiatives in support of the Metaplex ecosystem (“DAO Treasury Initiatives”). The Metaplex DAO controls a treasury of $MPLX tokens and other assets that the DAO can use to provide for the long-term sustainability and growth of the Metaplex ecosystem. The Metaplex ecosystem includes the Metaplex Program Library (“MPL”), developers and dApp users who interact with the MPL and Metaplex digital assets, and  $MPLX holders. 
 
-The Metaplex DAO treasury balance can be found here: https://dao.metaplex.com
+The Metaplex DAO treasury balance can be found here: https://dao.metaplex.foundation
 
 The Metaplex Foundation’s goal with this procedure is to provide a workable framework for community governance of the Metaplex DAO treasury. We expect to learn as we go and to make adjustments based on both our observations and community feedback.
 
