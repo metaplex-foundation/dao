@@ -19,7 +19,8 @@ The following are the current proposal procedures for:
 **Implementation.** If approved by the community via a DAO vote, then the DAO Council will update the applicable DAO process and documentation according to the approved proposal’s specifications. 
 
 The Metaplex Foundation may change the procedure for submitting and reviewing DAO Process Proposals based on experience and community feedback as long as the changes do not conflict with previously approved Metaplex Process Proposals ("MPP") or the DAO Constitution (https\://www\.metaplex.foundation/metaplex-dao-constitution).  
-**\# Full Procedure for Proposals for Metaplex DAO Process Proposals** 
+
+## **Full Procedure for Proposals for Metaplex DAO Process Proposals**
 
 This procedure applies to community proposals for changes to the DAO’s proposal procedures, guidelines and voting parameters in accordance with the Metaplex DAO Constitution ([https\://www\.metaplex.foundation/metaplex-dao-constitution](https://www.metaplex.foundation/metaplex-dao-constitution)). 
 
